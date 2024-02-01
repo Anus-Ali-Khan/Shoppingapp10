@@ -1,11 +1,11 @@
 import {StyleSheet, View} from 'react-native';
 import React from 'react';
 
-const Separartor = () => {
+const Separator = () => {
   return <View style={styles.separator}></View>;
 };
 
-export default Separartor;
+export default Separator;
 
 const styles = StyleSheet.create({
   separator: {
